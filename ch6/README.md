@@ -3,7 +3,7 @@ Chapter 6: Typeclasses
 
 > A blank cheque kills creativity. - Mokokoma Mokhonoana
 
-## Reading Exercies
+## Reading Exercises
 
 ### Writing typeclass instances
 
